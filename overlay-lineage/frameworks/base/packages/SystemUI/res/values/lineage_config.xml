@@ -15,6 +15,4 @@
      limitations under the License.
 -->
 <resources>
-    <!-- FPSInfoService FPS node file path --
-    <string name="config_fpsInfoSysNode" translatable="false">/sys/class/graphics/fb0/measured_fps</string> -->
 </resources>
